@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on **LinguaRPG**
+- 🌱 I’m currently learning **6502** & **Z-80** processors
+- 🤔 I’m looking for help with my project
+- 📫 How to reach me: Busibo@inbox.ru
+- ⚡ Fun fact: have bachelor degree in linguistics chinese but working as SE
 <!--
 **ZipparS/ZipparS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
